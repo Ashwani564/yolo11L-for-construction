@@ -1,4 +1,4 @@
-# YOLO V11
+# YOLO V11L
 Install best.py weights for the processing. 
 Here's the pefromance of this model:
 ![results](https://github.com/user-attachments/assets/b85708dd-4289-4066-ac96-232adfe5da21)
