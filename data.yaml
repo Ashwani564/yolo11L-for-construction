@@ -1,0 +1,18 @@
+path: C:\Users\am5082\Documents\yolo-large\data
+train: train\images
+val: valid\images
+
+nc: 10
+
+# Class names (in order from 0 to 9)
+names:
+  - Hardhat
+  - Mask
+  - NO-Hardhat
+  - NO-Mask
+  - NO-Safety Vest
+  - Person
+  - Safety Cone
+  - Safety Vest
+  - machinery
+  - vehicle
